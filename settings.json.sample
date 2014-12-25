@@ -1,0 +1,17 @@
+{
+	"sources": {
+		"soundcloud": {
+		 	"client_id" : "",
+		 	"prefix": "",
+			"playlists" : []
+		}
+	},
+	"destinations" : {
+		"dropbox" : {
+				"remote_path": "",
+				"app_key": "",
+				"app_secret": "",
+				"access_token" : ""
+		}
+	}
+}
